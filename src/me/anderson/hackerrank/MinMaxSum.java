@@ -31,7 +31,7 @@ As you can see, the minimal sum is  and the maximal sum is . Thus, we print thes
 
 Hints: Beware of integer overflow! Use 64-bit Integer.
  */
-package hacking;
+package me.anderson.hackerrank;
 
 import java.util.Scanner;
 
